@@ -1,0 +1,5 @@
+opencv-python>=4.0
+scikit-image
+torch
+matplotlib
+jupyter
