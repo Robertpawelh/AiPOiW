@@ -12,6 +12,7 @@ scikit-image = "^0.19.3"
 torch = "^1.12.1"
 matplotlib = "^3.6.1"
 jupyter = "^1.0.0"
+scikit-learn = "^1.2.0"
 
 
 [build-system]
